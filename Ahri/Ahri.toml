@@ -1,0 +1,220 @@
+# Ahri
+["Ahri Skins"."Ahri"]
+zh-cn= "九尾妖狐 阿狸"
+zh-tw= "九尾妖狐 阿璃"
+ko-kr= "구미호 아리"
+ja-jp= "九尾の狐 アーリ"
+# Dynasty Ahri
+["Ahri Skins"."Dynasty Ahri"]
+zh-cn = "高丽风情 阿狸"
+zh-tw = "靈隱狐仙 阿璃"
+ko-kr = "한복 아리"
+ja-jp = "古王朝 アーリ"
+["Ahri Skins"."Dynasty Ahri".Chromas."Dynasty Ahri Ahri-versary"]
+zh-cn = "高丽风情 阿狸 素裹"
+# Midnight Ahri
+["Ahri Skins"."Midnight Ahri"]
+zh-cn = "暗影妖狐 阿狸"
+zh-tw = "傾國妖狐 阿璃"
+ko-kr = "어둠여우 아리"
+ja-jp = "宵闇姫 アーリ"
+["Ahri Skins"."Midnight Ahri".Chromas."Midnight Ahri Ahri-versary"]
+zh-cn = "暗影妖狐 阿狸 入梦之影"
+# Foxfire Ahri
+["Ahri Skins"."Foxfire Ahri"]
+zh-cn = "焰尾妖狐 阿狸"
+zh-tw = "妖焰火狐 阿璃"
+ko-kr = "불여우 아리"
+ja-jp = "狐火娘 アーリ"
+["Ahri Skins"."Foxfire Ahri".Chromas."Foxfire Ahri Ahri-versary"]
+zh-cn = "焰尾妖狐 阿狸 纯白之焰"
+["Ahri Skins"."Foxfire Ahri".Chromas."Foxfire Ahri Emerald"]
+zh-cn = "焰尾妖狐 阿狸"
+# Popstar Ahri
+["Ahri Skins"."Popstar Ahri"]
+zh-cn = "偶像歌手 阿狸"
+zh-tw = "魅惑時代 阿璃"
+ko-kr = "팝스타 아리"
+ja-jp = "ポップスター アーリ"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Ahri-versary"]
+zh-cn = "偶像歌手 阿狸 幻紫罗兰"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Amethyst"]
+zh-cn = "偶像歌手 阿狸 皇室鸢尾"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Catseye"]
+zh-cn = "偶像歌手 阿狸 高山杜鹃"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Citrine"]
+zh-cn = "偶像歌手 阿狸 沙漠玫瑰"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Pearl"]
+zh-cn = "偶像歌手 阿狸 极地雪莲"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Rose Quartz"]
+zh-cn = "偶像歌手 阿狸 盛开之樱"
+["Ahri Skins"."Popstar Ahri".Chromas."Popstar Ahri Ruby"]
+zh-cn = "偶像歌手 阿狸 草原龙胆"
+# Challenger Ahri
+["Ahri Skins"."Challenger Ahri"]
+zh-cn = "勇者 阿狸"
+zh-tw = "傳說啟程 阿璃"
+ko-kr = "도전자 아리"
+ja-jp = "チャレンジャー アーリ"
+["Ahri Skins"."Challenger Ahri".Chromas."Challenger Ahri Ahri-versary"]
+zh-cn = "勇者 阿狸 追梦"
+["Ahri Skins"."Challenger Ahri".Chromas."Challenger Ahri Golden"]
+zh-cn = "勇者 阿狸 炫金"
+# Academy Ahri
+["Ahri Skins"."Academy Ahri"]
+zh-cn = "风纪委员 阿狸"
+zh-tw = "菁英學院 阿璃"
+ko-kr = "고교 여신 아리"
+ja-jp = "アカデミー アーリ"
+["Ahri Skins"."Academy Ahri".Chromas."Academy Ahri Ahri-versary"]
+zh-cn = "风纪委员 阿狸 守序之心"
+# Arcade Ahri
+["Ahri Skins"."Arcade Ahri"]
+zh-cn = "电玩女神 阿狸"
+zh-tw = "電玩女神 阿璃"
+ko-kr = "아케이드 아리"
+ja-jp = "アーケード アーリ"
+["Ahri Skins"."Arcade Ahri".Chromas."Arcade Ahri Ahri-versary"]
+zh-cn = "电玩女神 阿狸 时光勇者"
+# Star Guardian Ahri
+["Ahri Skins"."Star Guardian Ahri"]
+zh-cn = "星之守护者 阿狸"
+zh-tw = "星光戰士 阿璃"
+ko-kr = "별 수호자 아리"
+ja-jp = "スターガーディアン アーリ"
+["Ahri Skins"."Star Guardian Ahri".Chromas."Star Guardian Ahri Ahri-versary"]
+zh-cn = "星之守护者 阿狸 幻尾"
+# K/DA Ahri
+["Ahri Skins"."K/DA Ahri"]
+zh-cn = "K/DA 阿狸"
+zh-tw = "K/DA 阿璃"
+ko-kr = "K/DA 아리"
+ja-jp = "K/DA アーリ"
+["Ahri Skins"."K/DA Ahri".Chromas."K/DA Ahri Ahri-versary"]
+zh-cn = "K/DA 阿狸 魅惑之舞"
+# Prestige KDA Ahri
+["Ahri Skins"."Prestige KDA Ahri"]
+zh-cn = "至臻 K/DA 阿狸"
+zh-tw = "尊爵不凡 K/DA 阿璃"
+ko-kr = "프레스티지 K/DA 아리"
+ja-jp = "プレステージ K/DA アーリ"
+# Elderwood Ahri
+["Ahri Skins"."Elderwood Ahri"]
+zh-cn = "永恒之森 阿狸"
+zh-tw = "花仙精靈 阿璃"
+ko-kr = "나무정령 아리"
+ja-jp = "古の賢樹 アーリ"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Ahri-versary"]
+zh-cn = "永恒之森 阿狸 灿樱之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Amethyst"]
+zh-cn = "永恒之森 阿狸 桔梗之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Aquamarine"]
+zh-cn = "永恒之森 阿狸 琥珀之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Catseye"]
+zh-cn = "永恒之森 阿狸 黎明之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Citrine"]
+zh-cn = "永恒之森 阿狸 清溪之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Obsidian"]
+zh-cn = "永恒之森 阿狸 夜幕之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Peridot"]
+zh-cn = "永恒之森 阿狸 朝露之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Rose Quartz"]
+zh-cn = "永恒之森 阿狸 瑰蕾之尾"
+["Ahri Skins"."Elderwood Ahri".Chromas."Elderwood Ahri Ruby"]
+zh-cn = "永恒之森 阿狸 枫叶之尾"
+# Spirit Blossom Ahri
+["Ahri Skins"."Spirit Blossom Ahri"]
+zh-cn = "灵魂莲华 阿狸"
+zh-tw = "靈花祭 阿璃"
+ko-kr = "영혼의 꽃 아리"
+ja-jp = "精霊の花祭り アーリ"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Ahri-versary"]
+zh-cn = "灵魂莲华 阿狸 樱灿"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Aquamarine"]
+zh-cn = "灵魂莲华 阿狸 融冰"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Night Blossom"]
+zh-cn = "灵魂莲华 阿狸 霜见"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Obsidian"]
+zh-cn = "灵魂莲华 阿狸 月升"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Pearl"]
+zh-cn = "灵魂莲华 阿狸 朝华"
+["Ahri Skins"."Spirit Blossom Ahri".Chromas."Spirit Blossom Ahri Rose Quartz"]
+zh-cn = "灵魂莲华 阿狸 春晓"
+# K/DA ALL OUT Ahri
+["Ahri Skins"."K/DA ALL OUT Ahri"]
+zh-cn = "K/DA ALL OUT 阿狸"
+zh-tw = "K/DA ALL OUT 阿璃"
+ko-kr = "K/DA ALL OUT 아리"
+ja-jp = "K/DA ALL OUT アーリ"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Ahri-versary"]
+zh-cn = "K/DA ALL OUT 阿狸 玲珑之影"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Amethyst"]
+zh-cn = "K/DA ALL OUT 阿狸 晶莹之睐"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Aquamarine"]
+zh-cn = "K/DA ALL OUT 阿狸 温润之音"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri BADDEST"]
+zh-cn = "K/DA ALL OUT 阿狸 BADDEST"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Emerald"]
+zh-cn = "K/DA ALL OUT 阿狸 治愈之声"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Pearl"]
+zh-cn = "K/DA ALL OUT 阿狸 纯粹之心"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Rose Quartz"]
+zh-cn = "K/DA ALL OUT 阿狸 惊艳之姿"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Ruby"]
+zh-cn = "K/DA ALL OUT 阿狸 星光之途"
+["Ahri Skins"."K/DA ALL OUT Ahri".Chromas."K/DA ALL OUT Ahri Tanzanite"]
+zh-cn = "K/DA ALL OUT 阿狸 优雅之仪"
+# Coven Ahri
+["Ahri Skins"."Coven Ahri"]
+zh-cn = "魔女 阿狸"
+zh-tw = "女巫集會 阿璃"
+ko-kr = "악의 여단 아리"
+ja-jp = "盟約の魔女 アーリ"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Ahri-versary"]
+zh-cn = "魔女 阿狸 污蔑"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Catseye"]
+zh-cn = "魔女 阿狸 欺骗"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Dark Ritual"]
+zh-cn = "魔女 阿狸 狂信"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Emerald"]
+zh-cn = "魔女 阿狸 嫉妒"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Obsidian"]
+zh-cn = "魔女 阿狸 倦怠"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Pearl"]
+zh-cn = "魔女 阿狸 饕餮"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Rose Quartz"]
+zh-cn = "魔女 阿狸 贪婪"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Ruby"]
+zh-cn = "魔女 阿狸 愤怒"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Sapphire"]
+zh-cn = "魔女 阿狸 虚荣"
+["Ahri Skins"."Coven Ahri".Chromas."Coven Ahri Tanzanite"]
+zh-cn = "魔女 阿狸 欲望"
+# Prestige K/DA Ahri (2022)
+["Ahri Skins"."Prestige K/DA Ahri (2022)"]
+zh-cn = "至臻 K/DA 阿狸 (2022)"
+zh-tw = "尊爵不凡 K/DA 阿璃｜2022"
+ko-kr = "프레스티지 K/DA 아리 (2022)"
+ja-jp = "プレステージ K/DA アーリ(2022)"
+# Arcana Ahri
+["Ahri Skins"."Arcana Ahri"]
+zh-cn = "魅惑之月 阿狸"
+zh-tw = "魔術師 阿璃"
+ko-kr = "아르카나 아리"
+ja-jp = "アルカナ アーリ"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Catseye"]
+zh-cn = "魅惑之月 阿狸 财富"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Emerald"]
+zh-cn = "魅惑之月 阿狸 学识"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Obsidian"]
+zh-cn = "魅惑之月 阿狸 哀伤"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Rose Quartz"]
+zh-cn = "魅惑之月 阿狸 忠诚"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Ruby"]
+zh-cn = "魅惑之月 阿狸 斗志"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Sapphire"]
+zh-cn = "魅惑之月 阿狸 丰足"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Tanzanite"]
+zh-cn = "魅惑之月 阿狸 权威"
+["Ahri Skins"."Arcana Ahri".Chromas."Arcana Ahri Turquoise"]
+zh-cn = "魅惑之月 阿狸 谦逊"

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ahri_Skins>
+    <Ahri en-us="the Nine-Tailed Fox Ahri" zh-cn="九尾妖狐 阿狸" zh-tw="九尾妖狐 阿璃" ko-kr="구미호 아리" ja-jp="九尾の狐 アーリ"/>
+    <Dynasty_Ahri en-us="Dynasty Ahri" zh-cn="高丽风情 阿狸" zh-tw="靈隱狐仙 阿璃" ko-kr="한복 아리" ja-jp="古王朝 アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Dynasty Ahri Ahri-versary" zh-cn="高丽风情 阿狸 素裹"/>
+        </Chromas>
+    </Dynasty_Ahri>
+    <Midnight_Ahri en-us="Midnight Ahri" zh-cn="暗影妖狐 阿狸" zh-tw="傾國妖狐 阿璃" ko-kr="어둠여우 아리" ja-jp="宵闇姫 アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Midnight Ahri Ahri-versary" zh-cn="暗影妖狐 阿狸 入梦之影"/>
+        </Chromas>
+    </Midnight_Ahri>
+    <Foxfire_Ahri en-us="Foxfire Ahri" zh-cn="焰尾妖狐 阿狸" zh-tw="妖焰火狐 阿璃" ko-kr="불여우 아리" ja-jp="狐火娘 アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Foxfire Ahri Ahri-versary" zh-cn="焰尾妖狐 阿狸 纯白之焰"/>
+            <Emerald en-us="Foxfire Ahri Emerald"/>
+        </Chromas>
+    </Foxfire_Ahri>
+    <Popstar_Ahri en-us="Popstar Ahri" zh-cn="偶像歌手 阿狸" zh-tw="魅惑時代 阿璃" ko-kr="팝스타 아리" ja-jp="ポップスター アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Popstar Ahri Ahri-versary" zh-cn="偶像歌手 阿狸 幻紫罗兰"/>
+            <Amethyst en-us="Popstar Ahri Amethyst" zh-cn="偶像歌手 阿狸 皇室鸢尾"/>
+            <Catseye en-us="Popstar Ahri Catseye" zh-cn="偶像歌手 阿狸 高山杜鹃"/>
+            <Citrine en-us="Popstar Ahri Citrine" zh-cn="偶像歌手 阿狸 沙漠玫瑰"/>
+            <Pearl en-us="Popstar Ahri Pearl" zh-cn="偶像歌手 阿狸 极地雪莲"/>
+            <Rose_Quartz en-us="Popstar Ahri Rose Quartz" zh-cn="偶像歌手 阿狸 盛开之樱"/>
+            <Ruby en-us="Popstar Ahri Ruby" zh-cn="偶像歌手 阿狸 草原龙胆"/>
+        </Chromas>
+    </Popstar_Ahri>
+    <Challenger_Ahri en-us="Challenger Ahri" zh-cn="勇者 阿狸" zh-tw="傳說啟程 阿璃" ko-kr="도전자 아리" ja-jp="チャレンジャー アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Challenger Ahri Ahri-versary" zh-cn="勇者 阿狸 追梦"/>
+            <Golden en-us="Challenger Ahri Golden" zh-cn="勇者 阿狸 炫金"/>
+        </Chromas>
+    </Challenger_Ahri>
+    <Academy_Ahri en-us="Academy Ahri" zh-cn="风纪委员 阿狸" zh-tw="菁英學院 阿璃" ko-kr="고교 여신 아리" ja-jp="アカデミー アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Academy Ahri Ahri-versary" zh-cn="风纪委员 阿狸 守序之心"/>
+        </Chromas>
+    </Academy_Ahri>
+    <Arcade_Ahri en-us="Arcade Ahri" zh-cn="电玩女神 阿狸" zh-tw="電玩女神 阿璃" ko-kr="아케이드 아리" ja-jp="アーケード アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Arcade Ahri Ahri-versary" zh-cn="电玩女神 阿狸 时光勇者"/>
+        </Chromas>
+    </Arcade_Ahri>
+    <Star_Guardian_Ahri en-us="Star Guardian Ahri" zh-cn="星之守护者 阿狸" zh-tw="星光戰士 阿璃" ko-kr="별 수호자 아리" ja-jp="スターガーディアン アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Star Guardian Ahri Ahri-versary" zh-cn="星之守护者 阿狸 幻尾"/>
+        </Chromas>
+    </Star_Guardian_Ahri>
+    <KDA_Ahri en-us="K/DA Ahri" zh-cn="K/DA 阿狸" zh-tw="K/DA 阿璃" ko-kr="K/DA 아리" ja-jp="K/DA アーリ">
+        <Chromas>
+            <Ahri-versary en-us="K/DA Ahri Ahri-versary" zh-cn="K/DA 阿狸 魅惑之舞"/>
+        </Chromas>
+    </KDA_Ahri>
+    <Prestige_KDA_Ahri en-us="Prestige K/DA Ahri" zh-cn="至臻 K/DA 阿狸" zh-tw="尊爵不凡 K/DA 阿璃" ko-kr="프레스티지 K/DA 아리" ja-jp="プレステージ K/DA アーリ"/>
+    <Elderwood_Ahri en-us="Elderwood Ahri" zh-cn="永恒之森 阿狸" zh-tw="花仙精靈 阿璃" ko-kr="나무정령 아리" ja-jp="古の賢樹 アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Elderwood Ahri Ahri-versary" zh-cn="永恒之森 阿狸 灿樱之尾"/>
+            <Amethyst en-us="Elderwood Ahri Amethyst" zh-cn="永恒之森 阿狸 桔梗之尾"/>
+            <Aquamarine en-us="Elderwood Ahri Aquamarine" zh-cn="永恒之森 阿狸 琥珀之尾"/>
+            <Catseye en-us="Elderwood Ahri Catseye" zh-cn="永恒之森 阿狸 黎明之尾"/>
+            <Citrine en-us="Elderwood Ahri Citrine" zh-cn="永恒之森 阿狸 清溪之尾"/>
+            <Obsidian en-us="Elderwood Ahri Obsidian" zh-cn="永恒之森 阿狸 夜幕之尾"/>
+            <Peridot en-us="Elderwood Ahri Peridot" zh-cn="永恒之森 阿狸 朝露之尾"/>
+            <Rose_Quartz en-us="Elderwood Ahri Rose Quartz" zh-cn="永恒之森 阿狸 瑰蕾之尾"/>
+            <Ruby en-us="Elderwood Ahri Ruby" zh-cn="永恒之森 阿狸 枫叶之尾"/>
+        </Chromas>
+    </Elderwood_Ahri>
+    <Spirit_Blossom_Ahri en-us="Spirit Blossom Ahri" zh-cn="灵魂莲华 阿狸" zh-tw="靈花祭 阿璃" ko-kr="영혼의 꽃 아리" ja-jp="精霊の花祭り アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Spirit Blossom Ahri Ahri-versary" zh-cn="灵魂莲华 阿狸 樱灿"/>
+            <Aquamarine en-us="Spirit Blossom Ahri Aquamarine" zh-cn="灵魂莲华 阿狸 融冰"/>
+            <Night_Blossom en-us="Spirit Blossom Ahri Night Blossom" zh-cn="灵魂莲华 阿狸 霜见"/>
+            <Obsidian en-us="Spirit Blossom Ahri Obsidian" zh-cn="灵魂莲华 阿狸 月升"/>
+            <Pearl en-us="Spirit Blossom Ahri Pearl" zh-cn="灵魂莲华 阿狸 朝华"/>
+            <Rose_Quartz en-us="Spirit Blossom Ahri Rose Quartz" zh-cn="灵魂莲华 阿狸 春晓"/>
+        </Chromas>
+    </Spirit_Blossom_Ahri>
+    <KDA_ALL_OUT_Ahri en-us="K/DA ALL OUT Ahri" zh-cn="K/DA ALL OUT 阿狸" zh-tw="K/DA ALL OUT 阿璃" ko-kr="K/DA ALL OUT 아리" ja-jp="K/DA ALL OUT アーリ">
+        <Chromas>
+            <Ahri-versary en-us="K/DA ALL OUT Ahri Ahri-versary" zh-cn="K/DA ALL OUT 阿狸 玲珑之影"/>
+            <Amethyst en-us="K/DA ALL OUT Ahri Amethyst" zh-cn="K/DA ALL OUT 阿狸 晶莹之睐"/>
+            <Aquamarine en-us="K/DA ALL OUT Ahri Aquamarine" zh-cn="K/DA ALL OUT 阿狸 温润之音"/>
+            <BADDEST en-us="K/DA ALL OUT Ahri BADDEST" zh-cn="K/DA ALL OUT 阿狸 BADDEST"/>
+            <Emerald en-us="K/DA ALL OUT Ahri Emerald" zh-cn="K/DA ALL OUT 阿狸 治愈之声"/>
+            <Pearl en-us="K/DA ALL OUT Ahri Pearl" zh-cn="K/DA ALL OUT 阿狸 纯粹之心"/>
+            <Rose_Quartz en-us="K/DA ALL OUT Ahri Rose Quartz" zh-cn="K/DA ALL OUT 阿狸 惊艳之姿"/>
+            <Ruby en-us="K/DA ALL OUT Ahri Ruby" zh-cn="K/DA ALL OUT 阿狸 星光之途"/>
+            <Tanzanite en-us="K/DA ALL OUT Ahri Tanzanite" zh-cn="K/DA ALL OUT 阿狸 优雅之仪"/>
+        </Chromas>
+    </KDA_ALL_OUT_Ahri>
+    <Coven_Ahri en-us="Coven Ahri" zh-cn="魔女 阿狸" zh-tw="女巫集會 阿璃" ko-kr="악의 여단 아리" ja-jp="盟約の魔女 アーリ">
+        <Chromas>
+            <Ahri-versary en-us="Coven Ahri Ahri-versary" zh-cn="魔女 阿狸 污蔑"/>
+            <Catseye en-us="Coven Ahri Catseye" zh-cn="魔女 阿狸 欺骗"/>
+            <Dark_Ritual en-us="Coven Ahri Dark Ritual" zh-cn="魔女 阿狸 狂信"/>
+            <Emerald en-us="Coven Ahri Emerald" zh-cn="魔女 阿狸 嫉妒"/>
+            <Obsidian en-us="Coven Ahri Obsidian" zh-cn="魔女 阿狸 倦怠"/>
+            <Pearl en-us="Coven Ahri Pearl" zh-cn="魔女 阿狸 饕餮"/>
+            <Rose_Quartz en-us="Coven Ahri Rose Quartz" zh-cn="魔女 阿狸 贪婪"/>
+            <Ruby en-us="Coven Ahri Ruby" zh-cn="魔女 阿狸 愤怒"/>
+            <Sapphire en-us="Coven Ahri Sapphire" zh-cn="魔女 阿狸 虚荣"/>
+            <Tanzanite en-us="Coven Ahri Tanzanite" zh-cn="魔女 阿狸 欲望"/>
+        </Chromas>
+    </Coven_Ahri>
+    <Prestige_KDA_Ahri_2022 en-us="Prestige K/DA Ahri (2022)" zh-cn="至臻 K/DA 阿狸 (2022)" zh-tw="尊爵不凡 K/DA 阿璃｜2022" ko-kr="프레스티지 K/DA 아리 (2022)" ja-jp="プレステージ K/DA アーリ(2022)"/>
+    <Arcana_Ahri en-us="Arcana Ahri" zh-cn="魅惑之月 阿狸" zh-tw="魔術師 阿璃" ko-kr="아르카나 아리" ja-jp="アルカナ アーリ">
+        <Chromas>
+            <Catseye en-us="Arcana Ahri Catseye" zh-cn="魅惑之月 阿狸 财富"/>
+            <Emerald en-us="Arcana Ahri Emerald" zh-cn="魅惑之月 阿狸 学识"/>
+            <Obsidian en-us="Arcana Ahri Obsidian" zh-cn="魅惑之月 阿狸 哀伤"/>
+            <Rose_Quartz en-us="Arcana Ahri Rose Quartz" zh-cn="魅惑之月 阿狸 忠诚"/>
+            <Ruby en-us="Arcana Ahri Ruby" zh-cn="魅惑之月 阿狸 斗志"/>
+            <Sapphire en-us="Arcana Ahri Sapphire" zh-cn="魅惑之月 阿狸 丰足"/>
+            <Tanzanite en-us="Arcana Ahri Tanzanite" zh-cn="魅惑之月 阿狸 权威"/>
+            <Turquoise en-us="Arcana Ahri Turquoise" zh-cn="魅惑之月 阿狸 谦逊"/>
+        </Chromas>
+    </Arcana_Ahri>
+</Ahri_Skins>
