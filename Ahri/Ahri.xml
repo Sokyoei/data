@@ -118,4 +118,18 @@
             <Turquoise en-us="Arcana Ahri Turquoise" zh-cn="魅惑之月 阿狸 谦逊"/>
         </Chromas>
     </Arcana_Ahri>
+    <Snow_Moon_Ahri en-us="Snow Moon Ahri" zh-cn="净雪之月 阿狸">
+        <Chromas>
+            <Citrine en-us="Snow Moon Citrine"/>
+            <Emerald en-us="Snow Moon Emerald"/>
+            <Jasper en-us="Snow Moon Jasper"/>
+            <Rose_Quartz en-us="Snow Moon Rose Quartz"/>
+            <Ruby en-us="Snow Moon Ruby"/>
+            <Sapphire en-us="Snow Moon Sapphire"/>
+            <Tanzanite en-us="Snow Moon Tanzanite"/>
+            <Turquoise en-us="Snow Moon Turquoise"/>
+        </Chromas>
+    </Snow_Moon_Ahri>
+    <Risen_Legend_Ahri en-us="Risen Legend Ahri" zh-cn="殿堂传奇 阿狸"/>
+    <Immortalized_Legend_Ahri en-us="Immortalized Legend Ahri" zh-cn="联盟不朽 阿狸"/>
 </Ahri_Skins>
